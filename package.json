@@ -1,0 +1,15 @@
+{
+  "name": "Crawler",
+  "version": "1.0.0",
+  "description": "Crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["puppeteer","crawler","bookmarks"],
+  "author": "Aykut Asil",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.7.0"
+  }
+}
