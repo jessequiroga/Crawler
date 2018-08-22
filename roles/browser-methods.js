@@ -37,5 +37,7 @@ const siteUrl = 'https://yazilim.aykutasil.com';
     await incognitoPage.goto(siteUrl);
     await incognitoPage.pdf({path: 'result.pdf', format: 'A4'});
 
+    
+
     browser.close();
 })();
