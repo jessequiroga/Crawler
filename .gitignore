@@ -1,7 +1,3 @@
-screenshots/
-
-
-
 # Logs
 logs
 *.log
@@ -75,3 +71,7 @@ typings/
 
 # Serverless directories
 .serverless
+
+
+screenshots/
+creds.js

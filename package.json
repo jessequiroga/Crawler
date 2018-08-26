@@ -4,9 +4,10 @@
   "description": "Crawler",
   "main": "roles/download_file_redirect_link.js",
   "scripts": {
-    "test": ""
+    "test": "",
+    "dev": "node index.js"
   },
-  "keywords": ["puppeteer","crawler","bookmarks"],
+  "keywords": ["puppeteer", "crawler", "bookmarks"],
   "author": "Aykut Asil",
   "license": "ISC",
   "dependencies": {
