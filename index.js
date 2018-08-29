@@ -73,7 +73,7 @@ const CREDS = require('./creds');
         }, i);
 
         console.log('====================================');
-        console.log(title, ' -> ', content);
+        console.log(title, '->', content);
         console.log('====================================');
     }
 
