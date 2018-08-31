@@ -7,10 +7,15 @@
     "test": "",
     "dev": "node index.js"
   },
-  "keywords": ["puppeteer", "crawler", "bookmarks"],
+  "keywords": [
+    "puppeteer",
+    "crawler",
+    "bookmarks"
+  ],
   "author": "Aykut Asil",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/firestore": "^0.16.1",
     "puppeteer": "^1.7.0"
   }
 }
